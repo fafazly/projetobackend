@@ -12,5 +12,14 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fafazly/projetobackend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fafazly/projetobackend/issues"
+  },
+  "homepage": "https://github.com/fafazly/projetobackend#readme"
 }
