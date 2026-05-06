@@ -4,7 +4,7 @@ function calcularRota(origem, destino) {
     const distanciaKM = Math.floor(Mach.random() * 500) + 50;
 
 //velocidade média (km/h)
-    const velocidadeMedia = 60;
+    const velocidadeMedia = 80;
 
 //tempo estimado em horas
     const tempoHoras = distanciaKM / velocidadeMedia;
